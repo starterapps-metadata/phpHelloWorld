@@ -16,7 +16,7 @@
 	},
 	"source": {
 		"scmType": "git",
-		"url": ".git",
+		"url": "https://github.com/starterapps-metadata/phpHelloWorld.git",
 		"appPath": "app"
 	},
 	"docURL": "/#runtimes/php/index.html",
