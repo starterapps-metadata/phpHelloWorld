@@ -1,0 +1,63 @@
+{
+	"name": "PHP",
+	"services": [],
+	"type": "web",
+	"version": "4.1.5",
+	"description": "Develop, deploy, and scale PHP web apps with ease.",
+	"smallIcon": "i-php-24.png",
+	"icon": "i-php-32.png",
+	"largeIcon": "i-php-50.png",
+	"featuredIcon": "i-php-64.png",
+	"buildpack": "php_buildpack",
+	"system_tags": ["ibm_community"],
+	"categories": ["runtime"],
+	"metadata": {
+		"termsUrl": "https://www.ibm.com/software/sla/sladb.nsf/sla/bm-6626-01"
+	},
+	"source": {
+		"scmType": "git",
+		"url": ".git",
+		"appPath": "app"
+	},
+	"docURL": "/#runtimes/php/index.html",
+	"extra": {
+		"i18n": {
+			"de": {
+				"name": "PHP",
+				"description": "PHP-Web-Apps unkompliziert entwickeln, bereitstellen und skalieren."
+			},
+			"es": {
+				"name": "PHP",
+				"description": "Desarrolle, despliegue y escale fácilmente apps web PHP. "
+			},
+			"fr": {
+				"name": "PHP",
+				"description": "Développez, déployez et mettez à l'échelle des applications PHP facilement."
+			},
+			"it": {
+				"name": "PHP",
+				"description": "Sviluppa, distribuisci e ridimensiona con facilità applicazioni Web PHP."
+			},
+			"ja": {
+				"name": "PHP",
+				"description": "PHP Web アプリの開発、デプロイ、および拡張を容易に行います。"
+			},
+			"ko": {
+				"name": "PHP",
+				"description": "PHP 웹 앱을 쉽게 개발, 배치, 스케일링합니다. "
+			},
+			"pt-BR": {
+				"name": "PHP",
+				"description": "Desenvolva, implemente e escale os apps da web PHP com facilidade."
+			},
+			"zh-Hans": {
+				"name": "PHP",
+				"description": "轻松开发、部署和扩展 PHP Web 应用程序。"
+			},
+			"zh-Hant": {
+				"name": "PHP",
+				"description": "輕鬆地開發、部署及擴充 PHP Web 應用程式。"
+			}
+		}
+	}
+}
