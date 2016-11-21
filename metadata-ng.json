@@ -8,7 +8,6 @@
 	"icon": "i-php-32.png",
 	"largeIcon": "i-php-50.png",
 	"featuredIcon": "i-php-64.png",
-	"buildpack": "php_buildpack",
 	"system_tags": ["ibm_community"],
 	"categories": ["runtime"],
 	"metadata": {
